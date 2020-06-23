@@ -31,7 +31,7 @@ li {
     display:flex;
 }
 
-.arena 
+.main 
 {
     position: relative;
     bottom: 15px;
@@ -45,7 +45,7 @@ li {
 .element {
     width: 10px;
     margin-left: 2px;
-    background-color: blueviolet;
+    background-color: green;
 }
 
 .footer 
@@ -91,7 +91,7 @@ a:hover {
 
 /*
 @media only screen and (max-width: 600px) {
-    .arena {
+    .main {
       margin-bottom: 60px;
     }
     .navbar {
