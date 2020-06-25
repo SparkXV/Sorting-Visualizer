@@ -1,5 +1,5 @@
 {
-  "name": "sorting-visualizer",
+  "name": "Sorting-visualizer",
   "version": "1.0.0",
   "description": "Sorting Visualizer Single Page Application",
   "main": "index.html",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run lite"
   },
-  "author": "Sanket",
+  "author": "Dell",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
