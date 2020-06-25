@@ -23,7 +23,7 @@ let size=document.getElementById("submit");
 size.addEventListener('click',function(){
     inputVal = document.getElementById("size").value;
     document.getElementById("size").value="";
-    alert("Click On Generate a Random Array");
+    alert("Click On Random Array");
     //alert(inputVal);
 });
 
